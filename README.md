@@ -66,10 +66,3 @@ Estou buscando oportunidade de estágio como Analista de Dados e aberto a colabo
     </a>
 </div>
 
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AntonielAnalytics/AntonielAnalytics/output/snake.svg" alt="Snake animation" />
-
----
