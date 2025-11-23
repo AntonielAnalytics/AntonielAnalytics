@@ -5,9 +5,9 @@
 
 ## 💡 Sobre Antoniel
 
-[cite_start]Sou graduando em **Ciência da Computação ($4^{\circ}$ período)**, focado em **Data Analytics e Business Intelligence (BI)**[cite: 17, 18, 21]. [cite_start]Possuo uma base sólida em lógica e busco transformar dados complexos em *insights* estratégicos e acionáveis[cite: 22].
+Sou graduando em **Ciência da Computação (4º período)**, focado em **Data Analytics e Business Intelligence (BI)**. Possuo uma base sólida em lógica e busco transformar dados complexos em *insights* estratégicos e acionáveis.
 
-[cite_start]Utilizo **Python, SQL e Power BI** para modelagem, análise e visualização, com o objetivo de apoiar a **tomada de decisão *Data-Driven***.
+Utilizo **Python, SQL e Power BI** para modelagem, análise e visualização, com o objetivo de apoiar a **tomada de decisão *Data-Driven***.
 
 ---
 
@@ -43,13 +43,13 @@ Minhas principais habilidades de análise de dados e BI incluem:
 ## 🚀 Projeto em Destaque
 
 **[banco\_de\_dados\_doacoes](https://github.com/AntonielAnalytics/banco_de_dados_doacoes)**
-> Meu projeto principal demonstra proficiência em **Modelagem de Dados** e **Análise de Banco de Dados**[cite: 23, 24]. Nele, aplico SQL para estruturar dados e crio consultas estratégicas que geram *insights* para relatórios de Business Intelligence (BI)[cite: 18, 22].
+> Meu projeto principal demonstra proficiência em **Modelagem de Dados** e **Análise de Banco de Dados**. Nele, aplico SQL para estruturar dados e crio consultas estratégicas que geram *insights* para relatórios de Business Intelligence (BI).
 
 ---
 
 ## 📫 Conecte-se
 
-Estou buscando oportunidades de estágio em Data Analyst e aberto a colaborações[cite: 26].
+Estou buscando oportunidades de estágio em Data Analyst e aberto a colaborações.
 
 <div align="left">
     <a href="mailto:antonielbezerrasilva10@gmail.com">
@@ -70,6 +70,6 @@ Estou buscando oportunidades de estágio em Data Analyst e aberto a colaboraçõ
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AntonielAnalytics/AntonielAnalytics/output/snake.svg" alt="Snake animation" />
 
 ---
