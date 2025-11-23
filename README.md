@@ -1,15 +1,26 @@
-<h2 align="left">Olá 👋! [cite_start]Meu nome é Antoniel Bezerra Silva e sou um Data Analyst & BI em formação, de Teresina, Piauí, Brasil. [cite: 16, 17, 19]</h2>
+<h1 align="center">Olá 👋! Eu sou Antoniel Bezerra Silva</h1>
+<h3 align="center">Data Analyst & BI em formação | Graduando em Ciência da Computação</h3>
 
-<h3 align="left">Graduando em Ciência da Computação (4º período), focado em Data Analytics e Business Intelligence (BI). [cite_start]Utilizo Python, SQL e Power BI para transformar dados em *insights* estratégicos e apoiar a tomada de decisão *Data-Driven*. [cite: 17, 18, 21, 23]</h3>
+---
 
-###
+## 💡 Sobre Antoniel
+
+[cite_start]Sou graduando em **Ciência da Computação ($4^{\circ}$ período)**, focado em **Data Analytics e Business Intelligence (BI)**[cite: 17, 18, 21]. [cite_start]Possuo uma base sólida em lógica e busco transformar dados complexos em *insights* estratégicos e acionáveis[cite: 22].
+
+[cite_start]Utilizo **Python, SQL e Power BI** para modelagem, análise e visualização, com o objetivo de apoiar a **tomada de decisão *Data-Driven***.
+
+---
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AntonielAnalytics&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="estatísticas do GitHub" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonielAnalytics&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="principais linguagens" />
 </div>
 
-###
+---
+
+## 🛠️ Stack de Dados e Ferramentas
+
+Minhas principais habilidades de análise de dados e BI incluem:
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -27,7 +38,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
 </div>
 
-###
+---
+
+## 🚀 Projeto em Destaque
+
+**[banco\_de\_dados\_doacoes](https://github.com/AntonielAnalytics/banco_de_dados_doacoes)**
+> Meu projeto principal demonstra proficiência em **Modelagem de Dados** e **Análise de Banco de Dados**[cite: 23, 24]. Nele, aplico SQL para estruturar dados e crio consultas estratégicas que geram *insights* para relatórios de Business Intelligence (BI)[cite: 18, 22].
+
+---
+
+## 📫 Conecte-se
+
+Estou buscando oportunidades de estágio em Data Analyst e aberto a colaborações[cite: 26].
 
 <div align="left">
     <a href="mailto:antonielbezerrasilva10@gmail.com">
@@ -44,10 +66,10 @@
     </a>
 </div>
 
-###
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+---
