@@ -60,6 +60,7 @@ Repositório que concentra meu **README profissional do GitHub**, funcionando co
 
 - **Email:** antonielbezerrasilva10@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/antoniel-analista-de-dados  
+- **WhatsApp:** (99) 98418-2844  
 
 Atualmente busco **oportunidade de estágio em Análise de Dados ou Business Intelligence**, com interesse em ambientes orientados por dados e tomada de decisão baseada em evidências.
 
