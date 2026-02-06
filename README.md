@@ -5,7 +5,7 @@
 
 ## Sobre
 
-Sou graduando em **Ciência da Computação (4º período)**, com foco em **Análise de Dados e Business Intelligence**. Possuo sólida base em lógica de programação e estrutura de dados, buscando transformar dados em **insights estratégicos para apoio à tomada de decisão**.
+Sou graduando em **Ciência da Computação (5º período)**, com foco em **Análise de Dados e Business Intelligence**. Possuo sólida base em lógica de programação e estrutura de dados, buscando transformar dados em **insights estratégicos para apoio à tomada de decisão**.
 
 Tenho conhecimento em **Python, SQL, Excel e Power BI**, aplicando conceitos de análise, modelagem e visualização de dados em projetos acadêmicos e práticos.
 
