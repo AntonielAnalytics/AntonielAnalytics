@@ -5,18 +5,23 @@
 
 ## Sobre
 
-Sou graduando em **Ciência da Computação (5º período)**, com foco em **Análise de Dados e Business Intelligence**. Possuo sólida base em lógica de programação e modelagem de dados, buscando transformar dados em **informações estratégicas para apoio à tomada de decisão**.
+Sou graduando em **Ciência da Computação (4º período)**, com foco em **Análise de Dados e Business Intelligence**. Possuo sólida base em lógica de programação e estrutura de dados, com interesse em transformar dados em **insights estratégicos para apoio à tomada de decisão**.
 
-Atuo com **SQL, Excel e Power BI**, aplicando conceitos de **Data-Driven Decision Making** em projetos práticos voltados à análise e visualização de dados.
+Tenho conhecimento em **Python, SQL, Excel e Power BI**, aplicando conceitos de análise, modelagem e visualização de dados em projetos acadêmicos e práticos.
 
 ---
 
 ## Tecnologias e Ferramentas
 
+Tecnologias que domino e utilizo no estudo e desenvolvimento de soluções em dados:
+
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="32" alt="Excel"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" height="32" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter Notebook"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
 </p>
 
@@ -30,25 +35,25 @@ Abaixo estão meus projetos desenvolvidos com foco em **Análise de Dados e Busi
 
 Projeto voltado para **Modelagem de Dados e Análise de Banco de Dados**, utilizando **SQL** para criação de tabelas, normalização e consultas estratégicas, com apoio do **Excel** para organização, validação e análise complementar dos dados.
 
-**Tecnologias:** SQL, Excel  
+**Tecnologias utilizadas:** SQL, Excel  
 **Repositório:** https://github.com/AntonielAnalytics/banco_de_dados_doacoes
 
 ---
 
 ### dataVendasGlobais
 
-Projeto de **Business Intelligence**, desenvolvido exclusivamente no **Power BI**, com foco na construção de dashboards analíticos para acompanhamento de vendas globais. O projeto explora métricas de desempenho, comparações por região e análise visual de indicadores de negócio.
+Projeto de **Business Intelligence**, desenvolvido exclusivamente no **Power BI**, com foco na construção de dashboards analíticos para acompanhamento de vendas globais, explorando métricas de desempenho e indicadores de negócio.
 
-**Tecnologias:** Power BI  
+**Tecnologias utilizadas:** Power BI  
 **Repositório:** https://github.com/AntonielAnalytics/dataVendasGlobais
 
 ---
 
 ### AntonielAnalytics
 
-Repositório que concentra meu **README profissional no GitHub**, funcionando como um portfólio central com informações sobre minha formação acadêmica, tecnologias utilizadas, projetos desenvolvidos e formas de contato.
+Repositório que concentra meu **README profissional do GitHub**, funcionando como um portfólio central com informações sobre minha formação acadêmica, tecnologias dominadas, projetos desenvolvidos e formas de contato.
 
-**Tecnologias:** Markdown, GitHub  
+**Tecnologias utilizadas:** Markdown, GitHub  
 **Repositório:** https://github.com/AntonielAnalytics/AntonielAnalytics
 
 ---
@@ -56,8 +61,11 @@ Repositório que concentra meu **README profissional no GitHub**, funcionando co
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonielAnalytics&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonielAnalytics&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonielAnalytics&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonielAnalytics&layout=compact&theme=dracula"/>
 </p>
 
 ---
