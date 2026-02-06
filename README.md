@@ -5,15 +5,13 @@
 
 ## Sobre
 
-Sou graduando em **Ciência da Computação (4º período)**, com foco em **Análise de Dados e Business Intelligence**. Possuo sólida base em lógica de programação e estrutura de dados, com interesse em transformar dados em **insights estratégicos para apoio à tomada de decisão**.
+Sou graduando em **Ciência da Computação (4º período)**, com foco em **Análise de Dados e Business Intelligence**. Possuo sólida base em lógica de programação e estrutura de dados, buscando transformar dados em **insights estratégicos para apoio à tomada de decisão**.
 
 Tenho conhecimento em **Python, SQL, Excel e Power BI**, aplicando conceitos de análise, modelagem e visualização de dados em projetos acadêmicos e práticos.
 
 ---
 
 ## Tecnologias e Ferramentas
-
-Tecnologias que domino e utilizo no estudo e desenvolvimento de soluções em dados:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
@@ -55,18 +53,6 @@ Repositório que concentra meu **README profissional do GitHub**, funcionando co
 
 **Tecnologias utilizadas:** Markdown, GitHub  
 **Repositório:** https://github.com/AntonielAnalytics/AntonielAnalytics
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonielAnalytics&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonielAnalytics&layout=compact&theme=dracula"/>
-</p>
 
 ---
 
