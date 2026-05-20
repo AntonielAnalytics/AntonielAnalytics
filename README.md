@@ -1,19 +1,20 @@
+```md
 <h1 align="center">Antoniel Bezerra Silva</h1>
-<h3 align="center">Estudante de Ciência da Computação | Análise de Dados e Business Intelligence</h3>
+<h3 align="center">Estudante de Ciência da Computação | Estagiário em Engenharia de Dados & Business Intelligence</h3>
 
 ---
 
 ## Sobre
 
-Sou estudante de **Ciência da Computação (5º período)**, com foco em **Análise de Dados aplicada ao negócio e Business Intelligence**. Possuo experiência prática com **Excel e SQL** na organização, análise de dados e elaboração de relatórios e indicadores, apoiando a tomada de decisão em contexto comercial.
+Sou estudante de **Ciência da Computação (5º período)**, com atuação em **Engenharia de Dados e Business Intelligence**. Atualmente, atuo como estagiário em dados, auxiliando em processos de organização, estruturação e tratamento de dados utilizando **Excel, SQL, Python e ferramentas de BI**.
 
-Atualmente, estou em desenvolvimento contínuo em **Power BI** para construção de dashboards analíticos e possuo conhecimentos em **Python para análise de dados**, adquiridos por meio de cursos e estudos práticos.
+Possuo conhecimentos em **SQL, Power BI, Python e modelagem de dados**, aplicados em atividades relacionadas à organização de informações, relatórios e suporte a processos de dados.
 
 ---
 
 ## Tecnologias e Ferramentas
 
-Tecnologias com as quais atuo e estudo no contexto de análise de dados:
+Tecnologias e ferramentas utilizadas nos estudos e projetos relacionados à dados e BI:
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="32" alt="Excel"/>
@@ -27,11 +28,11 @@ Tecnologias com as quais atuo e estudo no contexto de análise de dados:
 
 ## Projetos
 
-Abaixo estão meus projetos desenvolvidos com foco em **Análise de Dados e Business Intelligence**, alinhados às minhas experiências acadêmicas e profissionais.
+Abaixo estão alguns projetos desenvolvidos durante meus estudos e práticas relacionadas à dados e BI.
 
 ### banco_de_dados_doacoes
 
-Projeto voltado para **Modelagem de Dados e Análise de Banco de Dados**, utilizando **SQL** para criação de tabelas, normalização e consultas estratégicas. O **Excel** foi utilizado como apoio para organização, validação e análise complementar dos dados, simulando cenários próximos à rotina empresarial.
+Projeto voltado para **Modelagem de Banco de Dados e desenvolvimento SQL**, incluindo criação de tabelas, normalização e consultas estruturadas para organização e gerenciamento de dados.
 
 **Tecnologias utilizadas:** SQL, Excel  
 **Repositório:** https://github.com/AntonielAnalytics/banco_de_dados_doacoes
@@ -40,7 +41,7 @@ Projeto voltado para **Modelagem de Dados e Análise de Banco de Dados**, utiliz
 
 ### dataVendasGlobais
 
-Projeto de **Business Intelligence**, desenvolvido no **Power BI**, com foco na construção de dashboards analíticos para acompanhamento de vendas globais. O projeto explora indicadores de desempenho, comparações por região e visualização de métricas relevantes para o negócio.
+Projeto de **Business Intelligence** desenvolvido no **Power BI**, com foco na criação de dashboards e relatórios visuais para acompanhamento de vendas e indicadores de negócio.
 
 **Tecnologias utilizadas:** Power BI  
 **Repositório:** https://github.com/AntonielAnalytics/dataVendasGlobais
@@ -49,19 +50,20 @@ Projeto de **Business Intelligence**, desenvolvido no **Power BI**, com foco na 
 
 ### AntonielAnalytics
 
-Repositório que concentra meu **README profissional no GitHub**, funcionando como um portfólio central com informações sobre minha formação acadêmica, tecnologias utilizadas, projetos desenvolvidos e formas de contato.
+Repositório que concentra meu README profissional no GitHub, reunindo informações sobre minha formação acadêmica, tecnologias utilizadas e projetos desenvolvidos.
 
 **Tecnologias utilizadas:** Markdown, GitHub  
 **Repositório:** https://github.com/AntonielAnalytics/AntonielAnalytics
 
 ---
 
-## Contatos
+## Contato
 
 - **Email:** antonielbezerrasilva10@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/antoniel-data-engineer-intern/  
 - **WhatsApp:** [ (99) 98418-2844 ](https://wa.me/5599984182844)
 
-Busco **oportunidade de estágio em Análise de Dados ou Business Intelligence**, com interesse em áreas ligadas à análise de vendas, indicadores e apoio à tomada de decisão.
+Atualmente atuando como estagiário em dados com foco em Engenharia de Dados e Business Intelligence.
 
 ---
+```
