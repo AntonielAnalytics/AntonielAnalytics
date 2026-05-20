@@ -7,7 +7,7 @@
 
 Sou estudante de **Ciência da Computação (5º período)**, com foco em **Engenharia de Dados**. Atualmente, atuo como estagiário em dados, auxiliando em processos de organização, tratamento e estruturação de dados utilizando **Excel, SQL, Python e ferramentas de BI**.
 
-Atualmente, estou em desenvolvimento contínuo em **Power BI** e possuo conhecimentos em **Python e SQL**, aplicados em atividades relacionadas à dados e suporte a processos.
+Possuo conhecimentos em **Python, SQL, Power BI e modelagem de dados**, aplicados em atividades relacionadas à organização e suporte a processos de dados.
 
 ---
 
@@ -31,10 +31,10 @@ Abaixo estão meus projetos desenvolvidos com foco em **Dados, SQL e Business In
 
 ### banco_de_dados_doacoes
 
-Projeto voltado para **Modelagem de Dados e Banco de Dados**, utilizando **SQL** para criação de tabelas, normalização e consultas estruturadas. O **Excel** foi utilizado como apoio para organização e validação dos dados.
+Projeto voltado para **Modelagem de Dados e Banco de Dados**, utilizando **SQL** para criação de tabelas, normalização e consultas estruturadas.
 
 **Tecnologias utilizadas:** SQL, Excel  
-**Repositório:** https://github.com/AntonielAnalytics/banco_de_dados_doacoes
+**Repositório:** https://github.com/AntonielDataEngIntern/banco_de_dados_doacoes
 
 ---
 
@@ -43,16 +43,16 @@ Projeto voltado para **Modelagem de Dados e Banco de Dados**, utilizando **SQL**
 Projeto de **Business Intelligence**, desenvolvido no **Power BI**, com foco na construção de dashboards para acompanhamento de vendas e indicadores de negócio.
 
 **Tecnologias utilizadas:** Power BI  
-**Repositório:** https://github.com/AntonielAnalytics/dataVendasGlobais
+**Repositório:** https://github.com/AntonielDataEngIntern/dataVendasGlobais
 
 ---
 
-### AntonielAnalytics
+### AntonielDataEngIntern
 
 Repositório que concentra meu **README profissional no GitHub**, funcionando como um portfólio central com informações sobre minha formação acadêmica, tecnologias utilizadas, projetos desenvolvidos e formas de contato.
 
 **Tecnologias utilizadas:** Markdown, GitHub  
-**Repositório:** https://github.com/AntonielAnalytics/AntonielAnalytics
+**Repositório:** https://github.com/AntonielDataEngIntern/AntonielDataEngIntern
 
 ---
 
