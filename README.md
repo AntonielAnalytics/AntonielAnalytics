@@ -1,13 +1,13 @@
 <h1 align="center">Antoniel Bezerra Silva</h1>
-<h3 align="center">Estudante de Ciência da Computação | Engenharia de Dados e Business Intelligence</h3>
+<h3 align="center">Estudante de Ciência da Computação | Estagiário em Engenharia de Dados</h3>
 
 ---
 
 ## Sobre
 
-Sou estudante de **Ciência da Computação (5º período)**, com foco em **Engenharia de Dados e Business Intelligence**. Atualmente, atuo como estagiário em dados, auxiliando em processos de organização, tratamento e estruturação de dados utilizando **Excel, SQL, Python e ferramentas de BI**.
+Sou estudante de **Ciência da Computação (5º período)**, com foco em **Engenharia de Dados**. Atualmente, atuo como estagiário em dados, auxiliando em processos de organização, tratamento e estruturação de dados utilizando **Excel, SQL, Python e ferramentas de BI**.
 
-Atualmente, estou em desenvolvimento contínuo em **Power BI** para construção de dashboards e possuo conhecimentos em **Python e SQL**, aplicados em atividades relacionadas à dados e suporte a processos.
+Atualmente, estou em desenvolvimento contínuo em **Power BI** e possuo conhecimentos em **Python e SQL**, aplicados em atividades relacionadas à dados e suporte a processos.
 
 ---
 
@@ -62,6 +62,6 @@ Repositório que concentra meu **README profissional no GitHub**, funcionando co
 - **LinkedIn:** https://www.linkedin.com/in/antoniel-data-engineer-intern/  
 - **WhatsApp:** [ (99) 98418-2844 ](https://wa.me/5599984182844)
 
-Atualmente atuando como estagiário em dados com foco em Engenharia de Dados e Business Intelligence.
+Atualmente atuando como estagiário em dados com foco em Engenharia de Dados.
 
 ---
